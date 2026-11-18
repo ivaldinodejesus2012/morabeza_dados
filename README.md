@@ -33,4 +33,7 @@ bash obter_sessao.sh 2      # troca 2 pelo número da sessão
 ```bash
 python -m morabeza.resumo data/vendas_amostra.csv
 ```
+
+##Sobre mim
 Formando Ivaldino Sanches
+Ilha Favorita: Santiago
