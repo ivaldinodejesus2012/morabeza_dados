@@ -36,4 +36,4 @@ python -m morabeza.resumo data/vendas_amostra.csv
 
 ##Sobre mim
 Formando Ivaldino Sanches
-Ilha Favorita: Fogo
+Ilha Favorita: Maio
